@@ -7,7 +7,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Ésoj-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Ésoj-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Ésoj-pic" width="150" height="150" style="border-radius:50px;" src="https://i.imgur.com/DTUyVCc.jpeg ">
+  <img align="right" alt="Ésoj-pic" width="150" height="150" style="border-radius:50px;" src="https://i.imgur.com/l7qDS66.png">
 </div>
   
   ##
