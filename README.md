@@ -1,6 +1,6 @@
 ## José ao contrário aqui!!
-## Aprendendo sobre banco de dados e back-end. Querendo ingressar na área de dados
-## Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
+ Aprendendo sobre banco de dados e back-end. Querendo ingressar na área de dados
+ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/esojairam">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=esojairam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=dec028&bg_color=g0.25turn,1d0052,29154f&border_color=g0.25turn,1d0052,29154f&text_color=a6ffe6"/>
