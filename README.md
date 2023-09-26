@@ -1,11 +1,6 @@
 ## José ao contrário aqui!!
 🍎Aprendendo sobre banco de dados e back-end. Querendo ingressar na área de dados. Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.✌
 
-<div align="center">
-  <a href="https://github.com/esojairam">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=esojairam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=dec028&bg_color=g0.25turn,1d0052,29154f&border_color=g0.25turn,1d0052,29154f&text_color=a6ffe6"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esojairam&layout=compact&langs_count=7&theme=tokyonight&title_color=dec028&bg_color=g0.25turn,1d0052,29154f&border_color=g0.25turn,1d0052,29154f&text_color=a6ffe6"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ésoj-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Ésoj-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
