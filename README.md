@@ -1,5 +1,5 @@
 ## José ao contrário aqui!!
-🍎Aprendendo sobre banco de dados e back-end. Querendo ingressar na área de dados. Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.✌
+🍎Aprendendo sobre banco de dados e back-end. Querendo ingressar na área de dados. Cursando Tecnologia em Análise e Desenvolvimento de Sistemas.✌
 
 <div align="center">
   <a href="https://github.com/esojairam">
